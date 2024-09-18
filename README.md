@@ -1,2 +1,2 @@
-# DWEC_garcia_rosales_juan
+# DWEC_garcia_rs_juan
 Repositorio para la asignatura de DWEC
